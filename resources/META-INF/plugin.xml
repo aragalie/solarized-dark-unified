@@ -2,7 +2,7 @@
 <idea-plugin>
   <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
   <id>solarized-dark-jetbrains</id>
-  <version>1.0.4</version>
+  <version>1.0.5</version>
 
   <!-- Public plugin name should be written in Title Case.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -30,16 +30,15 @@
         <li>Go to <b>Settings | Plugins</b>, find the theme plugin in the <b>Marketplace</b> section, called <b>Solarized Dark Unified></b> and install it</li>
         <li>Restart the IDE</li>
         <li>Go to <b>Settings | Appearance & Behavior | Appearance</b> and select <b>Solarized Dark Unified</b> in the Theme dropdown</li>
-    <ul type="disc">
-    <li>Or to select the theme only for the Editor, go to <b>Settings | Editor | Color Scheme</b> and select <b>Solarized Unified Dark</b> in the Scheme dropdown</li>
-    </ul>
+        <li>Go to <b>Settings | Editor | Color Scheme</b> and select <b>Solarized Unified Dark</b> in the Scheme dropdown</li>
     </ol>
   ]]></description>
 
   <!-- Short summary of new features and bugfixes in the latest plugin version.
        Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
   <change-notes><![CDATA[
-  Updated Editor Tab background color and Project view selection color for increased visibility
+  Updated completion popup text for increased visibility
+  Updated README
   ]]></change-notes>
 
   <!-- Product and plugin compatibility requirements.

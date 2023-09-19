@@ -89,7 +89,7 @@
     "ComboPopup.border": "1,1,1,1,64647A",
 
     "CompletionPopup":  {
-      "matchForeground": "#002b36"
+      "matchForeground": "#cb4b16"
     },
 
     "Component": {
@@ -195,7 +195,7 @@
     "ParameterInfo": {
       "background": "#002b36",
       "foreground": "#839496",
-      "infoForeground": "ababb3",
+      "infoForeground": "#ababb3",
       "currentOverloadBackground": "#6A6173",
       "currentParameterForeground": "#839496"
     },
