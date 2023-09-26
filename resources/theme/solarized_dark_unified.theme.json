@@ -2,7 +2,7 @@
   "name": "Solarized Dark",
   "dark": true,
   "author": "Alex Ragalie",
-  "editorScheme": "/themes/solarizedDark.xml",
+  "editorScheme": "/solarizedDarkUnified.xml",
   "ui": {
 
     "*": {
