@@ -1,9 +1,9 @@
-<scheme name="Solarized Dark Unified" version="106" parent_scheme="Darcula">
+<scheme name="Solarized Dark Unified" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-09-15T12:39:48</property>
-    <property name="ide">RustRover</property>
-    <property name="ideVersion">2023.2.0.0</property>
-    <property name="modified">2023-09-15T12:40:03</property>
+    <property name="created">2023-10-25T13:57:06</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2023.2.3.0.0</property>
+    <property name="modified">2023-10-25T13:57:24</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="586e75"/>
@@ -59,7 +59,6 @@
     <option name="ScrollBar.thumbBorderColor" value="2aa198"/>
     <option name="ScrollBar.thumbColor" value="2aa198"/>
     <option name="ScrollBar.trackColor" value="73642"/>
-    <option name="TAB_UNDERLINE" value=""/>
     <option name="TAB_UNDERLINE_INACTIVE" value="73642"/>
     <option name="TEARLINE_COLOR" value="586e75" />
     <option name="WHITESPACES" value="586e75" />
@@ -1298,7 +1297,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="73642"/>
+        <option name="BACKGROUND" value="4d6268"/>
         <option name="ERROR_STRIPE_COLOR" value="96ccff" />
       </value>
     </option>
@@ -3391,7 +3390,6 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e5d1d0"/>
         <option name="ERROR_STRIPE_COLOR" value="54aae3" />
       </value>
     </option>
