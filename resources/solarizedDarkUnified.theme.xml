@@ -1297,7 +1297,8 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="4d6268"/>
+        <option name="FOREGROUND" value="5daaad"/>
+        <option name="BACKGROUND" value="334207"/>
         <option name="ERROR_STRIPE_COLOR" value="96ccff" />
       </value>
     </option>
