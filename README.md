@@ -19,3 +19,7 @@ section in `Settings/Plugins` (Shift + Shift and search for **Plugins**). It is 
 Solarized Dark Unified` and is published under my name `Alex Ragalie`.
 
 Alternatively, you can find it [here on the JetBrains Marketplace](https://plugins.jetbrains.com/plugin/22728-solarized-dark-unified).
+
+## License
+
+`Solarized Dark Unified` theme is [MIT](https://opensource.org/license/mit/) licensed.
