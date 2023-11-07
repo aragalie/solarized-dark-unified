@@ -22,4 +22,4 @@ Alternatively, you can find it [here on the JetBrains Marketplace](https://plugi
 
 ## License
 
-`Solarized Dark Unified` theme is [MIT](https://opensource.org/license/mit/) licensed.
+`Solarized Dark Unified` theme is [MIT](LICENSE.md) licensed.
