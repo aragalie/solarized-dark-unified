@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="solarized-dark-unified" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+    <module name="solarized-dark-unified" />
+    <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -ea" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <alternative-path path="$APPLICATION_HOME_DIR$/jbr/Contents/Home" alternative-path-enabled="true" />
+    <predefined_log_file enabled="true" id="idea.log" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

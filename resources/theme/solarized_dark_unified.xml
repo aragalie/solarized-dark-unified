@@ -1,9 +1,9 @@
-<scheme name="Solarized Dark Unified" version="142" parent_scheme="Darcula">
+<scheme name="Solarized Dark Unified" parent_scheme="Darcula" version="142">
   <metaInfo>
     <property name="created">2023-10-25T13:57:06</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2023.3.0.0.0</property>
-    <property name="modified">2023-10-25T13:57:24</property>
+    <property name="ideVersion">2023.3.2.0.0</property>
+    <property name="modified">2024-01-02T16:05:25</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="586e75"/>
