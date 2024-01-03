@@ -2,7 +2,7 @@
 <idea-plugin>
   <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
   <id>solarized-dark-jetbrains</id>
-  <version>1.0.14</version>
+  <version>1.0.15</version>
 
   <!-- Public plugin name should be written in Title Case.
        Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -22,22 +22,21 @@
    Solarized Dark theme with unified UI colors, making the overall visual experience more integrated.
    <br/><br/>
 
-   Based on the theme <a href="https://github.com/snowe2010/solarized-jetbrains">"Solarized Dark"</a> Tyler Thrailkill (<a href="https://github.com/snowe2010/solarized-jetbrains">GitHub</a>), but with adjusted UI colors to allow the same unified color across all UI panels.
-    <br/><br/>
-
-    To install:
+   To install:
     <ol>
         <li>Go to <b>Settings | Plugins</b>, find the theme plugin in the <b>Marketplace</b> section, called <b>Solarized Dark Unified></b> and install it</li>
         <li>Restart the IDE</li>
         <li>Go to <b>Settings | Appearance & Behavior | Appearance</b> and select <b>Solarized Dark Unified</b> in the Theme dropdown</li>
         <li>Go to <b>Settings | Editor | Color Scheme</b> and select <b>Solarized Unified Dark</b> in the Scheme dropdown</li>
     </ol>
+    
+   You might also want to check the <a href="https://github.com/aragalie/solarized-dark-unified">plugin repo</a> for matching Kitty terminal emulator theme colors.
   ]]></description>
 
   <!-- Short summary of new features and bugfixes in the latest plugin version.
        Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
   <change-notes><![CDATA[
-  Updated compatibility (again) with IntelliJ 2023.3
+  Updated README and tried fixing potential errors from new IntelliJ version.
   ]]></change-notes>
 
   <!-- Product and plugin compatibility requirements.

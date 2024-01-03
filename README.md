@@ -23,7 +23,7 @@ Alternatively, you can find it [here on the JetBrains Marketplace](https://plugi
 ## Setup needed to edit the theme
 
 1. Open up the project inside InteliJ IDEA.
-2. Install Jetbrains Platform Plugin SDK.
+2. Install Jetbrains Platform Plugin DevKit.
 3. Build > Build Artifacts > jar.
 
 ## Terminal theme
